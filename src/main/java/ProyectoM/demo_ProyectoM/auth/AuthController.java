@@ -1,4 +1,4 @@
-package ProyectoM.demo_ProyectoM.Auth;
+package ProyectoM.demo_ProyectoM.auth;
 
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
